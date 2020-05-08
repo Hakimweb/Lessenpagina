@@ -34,11 +34,10 @@ p {
     margin-bottom: 10px;
     border-radius: 10px;
 }
-/*#header {
-    background-image: image(Hakim foto kleur.jpg);
+#header {
     background-color: #43a09d;
     background-size: cover;
-}*/
+}
 #header img {
     display: block;
     width: 80px;
